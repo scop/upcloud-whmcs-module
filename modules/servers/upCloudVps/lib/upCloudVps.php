@@ -3,7 +3,7 @@ namespace WHMCS\Module\Server\upCloudVps;
 if (!defined("WHMCS")) {die("This file cannot be accessed directly");}
 use WHMCS\Database\Capsule;
 
-define('MODULE_VERSION', '1.0.0');
+define('MODULE_VERSION', '1.1.0');
 
 class upCloudVps
 {
